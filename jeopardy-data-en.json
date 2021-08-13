@@ -5,15 +5,8 @@
     "questions": [
       {
         "label": "100",
-        "q": "Game: What's on the box?
-Points: Participation - 5 points.
-Gamemaster: Mike",
-        "a": "Setup: Grab a box, write each players name on box.
-
-How to play: Bounce quarter onto box. If it lands on someone's name take a drink. If it misses write a rule on the box.
-Points: Participation - 5 points.
-Win Condition: None - timed 15 minutes.
-Gamemaster: Mike"
+        "q": "Game: What's on the box?\nPoints: Participation - 5 points. Gamemaster: Mike",
+        "a": "Setup: Grab a box, write each players name on box.\nHow to play: Bounce quarter onto box. If it lands on someone's name take a drink. If it misses write a rule on the box.\nPoints: Participation - 5 points.\nWin Condition: None - timed 15 minutes.nGamemaster: Mike"
       },
       {
         "label": "200",
