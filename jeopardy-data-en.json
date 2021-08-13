@@ -5,8 +5,15 @@
     "questions": [
       {
         "label": "100",
-        "q": "What is the name of the event where SUSE engineers experiment, innovate and learn interruption-free?",
-        "a": "answers/en/history/hackweek.html"
+        "q": "Game: What's on the box?
+Points: Participation - 5 points.
+Gamemaster: Mike",
+        "a": "Setup: Grab a box, write each players name on box.
+
+How to play: Bounce quarter onto box. If it lands on someone's name take a drink. If it misses write a rule on the box.
+Points: Participation - 5 points.
+Win Condition: None - timed 15 minutes.
+Gamemaster: Mike"
       },
       {
         "label": "200",
