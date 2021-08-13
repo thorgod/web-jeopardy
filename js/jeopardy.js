@@ -7,7 +7,7 @@ $.urlParam = function(name){
   }
 }
 
-$.getJSON($.urlParam('file') || 'jeopardy-data-de.json')
+$.getJSON($.urlParam('file') || 'jeopardy-data-en.json')
   .done(function (data) {
     console.log(data)
     var column_width = new String(12 / data.length).replace(".", "-")
